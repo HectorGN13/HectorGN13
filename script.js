@@ -9,7 +9,7 @@ let colors = ["#24d05a", "#eb4888", "#10a2f5", "#e9bc3f"];
 
     setInterval(() => {
         setRandomPhoto();
-    }, 2500);
+    }, 3000);
 
     setInterval(() => {
         setRandomLinkColor();
@@ -46,7 +46,7 @@ function setColorHoverListener() {
 /* Photos */
 
 function setRandomPhoto() {
-    let num = Math.floor(Math.random() * 2) + 1;
+    let num = Math.floor(Math.random() * 3) + 1;
     document.getElementById("propic").src = `./img/face${num}.gif`;
     console.log(num);
 }
