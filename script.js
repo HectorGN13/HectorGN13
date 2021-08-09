@@ -9,7 +9,7 @@ let colors = ["#24d05a", "#eb4888", "#10a2f5", "#e9bc3f"];
 
     setInterval(() => {
         setRandomPhoto();
-    }, 3000);
+    }, 6000);
 
     setInterval(() => {
         setRandomLinkColor();
