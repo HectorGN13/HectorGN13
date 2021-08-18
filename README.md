@@ -1,4 +1,4 @@
-https://hectorgn13.github.io/hectorgn13/
+https://hectorgn13.github.io/HectorGN13/
 
 ![](https://komarev.com/ghpvc/?username=HectorGN13)
 
